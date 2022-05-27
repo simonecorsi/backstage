@@ -1,5 +1,11 @@
 # @backstage/plugin-auth-backend
 
+## 0.14.1-next.1
+
+### Patch Changes
+
+- 5e055079f0: Increased key field size for signing_keys table to account for larger signature keys
+
 ## 0.14.1-next.0
 
 ### Patch Changes
