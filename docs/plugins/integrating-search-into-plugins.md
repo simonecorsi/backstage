@@ -1,6 +1,6 @@
 ---
-id: for-plugin-devs
-title: Search for Plugin Developers
+id: integrating-search-into-plugins
+title: Integrating Search into a plugin
 description: How to integrate search into a Backstage plugin
 ---
 
